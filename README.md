@@ -1,4 +1,4 @@
-# Dacon_supercondoctor
+# Dacon_Supercondoctor
 [DACON, Private 5th] 월간 데이콘 쇼츠 - 초전도체 임계온도 예측 AI 해커톤 코드입니다.  
   
 코드 자체는 굉장히 간단하여, scaler및 AutoML에 대해 블로그에 정리하였습니다.  
