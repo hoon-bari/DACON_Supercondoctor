@@ -3,10 +3,10 @@
   
 코드 자체는 굉장히 간단하여, scaler및 AutoML에 대해 블로그에 정리하였습니다.  
 
-[Scaler](https://almosthave.tistory.com/5)  
-[mljar-supervised](https://almosthave.tistory.com/12)  
-[Autogluon](https://almosthave.tistory.com/15)  
-[Pycaret](https://almosthave.tistory.com/16)  
+[Scaler 정리](https://almosthave.tistory.com/5)  
+[mljar-supervised 소개 및 설명](https://almosthave.tistory.com/12)  
+[Autogluon 소개 및 설명](https://almosthave.tistory.com/15)  
+[Pycaret 소개 및 설명](https://almosthave.tistory.com/16)  
 
 ![001](https://github.com/hoon-bari/Dacon_supercondoctor/assets/121400054/a06baef9-4dae-4e4d-9b76-b15aeba2058a)
 ![002](https://github.com/hoon-bari/Dacon_supercondoctor/assets/121400054/79066a78-f371-49df-aadb-26b9553509ea)
