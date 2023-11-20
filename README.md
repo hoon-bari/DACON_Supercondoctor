@@ -1,12 +1,6 @@
 # Dacon_Supercondoctor
 [DACON, Private 5th] 월간 데이콘 쇼츠 - 초전도체 임계온도 예측 AI 해커톤 코드입니다.   
 코드는 데이콘 홈페이지에도 올렸습니다. [코드 링크](https://dacon.io/competitions/official/236146/codeshare/8698?page=1&dtype=recent)    
-코드 자체는 굉장히 간단하여, scaler및 AutoML에 대해 블로그에 정리하였습니다.  
-
-[Scaler 정리](https://almosthave.tistory.com/5)  
-[mljar-supervised 소개 및 설명](https://almosthave.tistory.com/12)  
-[Autogluon 소개 및 설명](https://almosthave.tistory.com/15)  
-[Pycaret 소개 및 설명](https://almosthave.tistory.com/16)  
 
 ![001](https://github.com/hoon-bari/Dacon_supercondoctor/assets/121400054/9ce7325a-5be6-41be-99e0-4359de3a3813)
 ![002](https://github.com/hoon-bari/Dacon_supercondoctor/assets/121400054/79066a78-f371-49df-aadb-26b9553509ea)
